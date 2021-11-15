@@ -39,6 +39,12 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 
 
 
+#EXTINF: -1 tvg-logo = "" group-title = "Anime",Anime Zone TV
+http://azxtv.com/hls/stream.m3u8
+
+#EXTINF: -1 tvg-logo = "" group-title = "Anime",Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+
 
 
 #EXTINF:0 tvg-country="" tvg-logo="https://televisionlibre.net/img/logo_canal/Star_Channel.png" group-title="Cine",Star Channel
