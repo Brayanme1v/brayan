@@ -79,3 +79,6 @@ https://mdstrm.com/video/61882b85897f70082fbad1f0.m3u8?uid=aBlfq031hOECycpVujmy8
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Deportes",ClaroSports
 http://45.225.93.154:8000/play/a030?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Deportes",1234
+http://209.91.213.10:8088/play/a02r
+
