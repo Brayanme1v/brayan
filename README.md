@@ -39,10 +39,10 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 
 
 
-#EXTINF: -1 tvg-logo = "" group-title = "Anime",Anime Zone TV
+#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/577844391550676992/1CMGwqut_400x400.png" group-title = "Anime",Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
 
-#EXTINF: -1 tvg-logo = "" group-title = "Anime",Locomotion
+#EXTINF: -1 tvg-logo = "https://w7.pngwing.com/pngs/637/162/png-transparent-locomotion-television-channel-cable-television-pay-television-aquatic-locomotion.png" group-title = "Anime",Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 
