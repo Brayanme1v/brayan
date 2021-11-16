@@ -18,7 +18,7 @@ https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZSYE09LB_zIgup-RIR
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?uid=x1JoYNxWVymUr2eaMCk5VzW2jTwU8p9a&sid=tfX0eb1cJzzjQk4TthHHB35rL83WBPga&pid=CS4jGy96bbO7ocqnZ2zbNJjGqQmFvqXY&an=screen&at=web-app&av=v5.2.192&ref=https%3A%2F%2Fnoticias.caracoltv.com%2F&res=392x221&without_cookies=false&dnt=true
 
 #EXTINF: -1 tvg-logo = "" group-title = "Nacionales",Caracol
-http://mains.services:2086/nick5404/9928627/88690?checkedby:iptvcat.com
+http://mains.services:2086/nick5404/9928627/66556?checkedby:iptvcat.com
 
 #EXTINF: -1 tvg-logo = "" group-title = "Nacionales",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
