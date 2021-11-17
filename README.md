@@ -61,7 +61,8 @@ http://45.225.93.154:8000/play/a03c?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Cine",HBO
 https://vsd70.mycdn.me/hls/1747365792327.m3u8/sig/7-tf9N0m3WI/expires/1637267186562/srcIp/190.61.47.58/clientType/0/srcAg/CHROME_ANDROID/mid/4736345644615/video.m3u8?p
 
-
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Cultura", Discovery Channel
+https://usher.ttvnw.net/api/channel/hls/rt_011w.m3u8?allow_source=true&fast_bread=true&p=2837668&play_session_id=ccc294c99d3f19858f60635b64f4b318&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=1151c885885b3c85674e3c537f9f9f2d8c2890bd&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22rt_011w%22%2C%22channel_id%22%3A742430285%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22848ad90e32038bd5%22%2C%22expires%22%3A1637182338%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.61.47.58%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.6.0
 
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Cultura",Animal Planet
 http://45.225.93.154:8000/play/a023?checkedby:iptvcat.com
