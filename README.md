@@ -58,7 +58,8 @@ http://45.225.93.154:8000/play/a037?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Cine",Claro Cinema
 http://45.225.93.154:8000/play/a03c?checkedby:iptvcat.com
 
-
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Cine",HBO
+https://vsd70.mycdn.me/hls/1747365792327.m3u8/sig/7-tf9N0m3WI/expires/1637267186562/srcIp/190.61.47.58/clientType/0/srcAg/CHROME_ANDROID/mid/4736345644615/video.m3u8?p
 
 
 
