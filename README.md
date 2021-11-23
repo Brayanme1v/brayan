@@ -12,13 +12,13 @@ https://asucap.com/livestream/aguavirgen.m3u8
 
 
 #EXTINF: -1 tvg-logo = "https://html.canalrcn.com/CanalRCN/react/img/logo-rcn-2020.png" group-title = "Nacionales", RCN
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZSYE09LB_zIgup-RIRuBgP4)/dm/3/x7vyv0z/s/live-2.m3u8
+
 
 #EXTINF: -1 tvg-logo = "" group-title = "Nacionales",Caracol Ahora
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?uid=x1JoYNxWVymUr2eaMCk5VzW2jTwU8p9a&sid=tfX0eb1cJzzjQk4TthHHB35rL83WBPga&pid=CS4jGy96bbO7ocqnZ2zbNJjGqQmFvqXY&an=screen&at=web-app&av=v5.2.192&ref=https%3A%2F%2Fnoticias.caracoltv.com%2F&res=392x221&without_cookies=false&dnt=true
 
 #EXTINF: -1 tvg-logo = "" group-title = "Nacionales",Caracol
-https://dmxleo.dailymotion.com/cdn/manifest/video/x7vyv0z.m3u8?auth=1637758991-2688-f2zriclm-59af2a2a751cc0ecaec9bd1a4dc122aciMYHCVD1c0Mih_hRMopgHYqP5ok_C8jXcfl6xHdOv6k-yruhZkE0NXXq1vNlW0hOLQyOWEWSWElET9Au4_QFqwiJahzud1gx45JMi1v-11ZdYiJuy7Q-Qyr0lkDuGD00lp1oSNZyr74QTfq2-rzQSIuKwg-GvA8ExBiUXl6mWpGCQtZtS30Z5qlNgd0F1m56ztFVGxy1PE6PasJjre70H7MMy4Jap7V6oW5P19fY4dqVXsZrsEaC1f4KGUaW-zxsYq2htvkEqNLSzAIpsy8UVD_AJoUi4Xkkcd13YGNCpMB6pszwr8LCDMMNqi-NeWM2KqYpvSNturD7ZpVKy5Dv3xGbPefYV9XxwmendxNiuMnocM5QQROali0uP1rrt3qtkCMNM8K4bjBnbuxJyBX_Pw0BvunX5xjGhdkXAcruRNlsQ1uO_e2c6WfBN-9-n95NHYNwD6Beu_fhqw_lGOi3aWKmlhVBwGT5OpRCgebhEkXVG0EufdFeLRXBgIbMp09opw2Li_hz3wd8fesHRdna4xHKYAmkuPQil4XEVKmmCS7JbNfmt29-JegS-rc4MFqCNkoIGAfqADGMCKpuo1Zb8pvh4I-i_oUgl-RI7mGmqcnt-OZtrbL3W5XHNMY2wJJCXgzr4mSeBYLGO90706cNLywVWo67QaBdiZja-1g1HuulkilTsgycxgQ2CNVxVleO26sFhyiQo5r7Wc02LGRVpY76VO4BOfwHH-GHGkv466WYNSZXiGiEr5CZwO9r8x6aKSjLBIXe6BVRhckuG7z6-TB5tmG0sIL0Zd2xZTxDSyMMA2mThBUZtBThJQTXn-4C7RJ3I35n6dUx6953FUxuowHTF0eSMrLpRDYt1XxwEkkNEYPJxz3mFxzX6WP0VWvx934EtjJ50-L8D1W3As3LcJLySvuoU4O3mXx-K4PMJrlTwWgucTa7GL7-5Ik9qhMsGerfGy5v3xEsQbrD2SGtq9v3Vn3_mI5Kx_zBfyn1HY-urQtu6MpAIPkcHggusWQcTgiq4IXr8Jcw2ZkzAhngg-MM1e6VHpTWLootOu8QepQTkxqS1uxKrQUkW0tl6OhFcFvizrX8DtqcH30Sl3c2mgTt18yqnTLASOr-GA2e18hkv0nJNLRCdGGjZ54RPD-RQXq-i0EOtARN6IEHlQbHJtN_KCCrqaamSeAkaJ2DLVJZHtxpAaNhRGS3mwyc4rq-gmoTL4FaMB6HosGiDJwByMUUcopSiBc-fwQVAMpGvx_rn5QZiIDpaMJQ7DrWe4ItG7McFsE3Bxlj2uTDt1nqGE6SkDbzfHkItPYmNWZaSQa6H8Q2nv7Ji_GPiiz9oRQC7DEwGlsse_hpQ2qoAw4b3yuNA8XL6CtZ8Nta2au1H9TL-M_QeQnvYykSmdAhcxaQ07gKwC5JMqfVCQPWuZfoulpEqxEShMC9_7bEfqVX1i_C2buQWgZ12T2YD0kbGwjXiOQsMEWQf47eCKMLEy53bwYkk3bJdamghZw0S6O19eWxliWuieLv9QAu_9U3lmwWWHV9yAvXiqpJ97zcnEDhG7lMaNCOfvALIAzRmK_1WebtNRJCrm1z9vXIxRuMEjuhZjpBFJkPkRk92eKRrWc7NAFRSt_3OgNf9JkmnxfciHwCOf3HIAUhhd2IvbI8BVjIKMA4Kt63xSsZD9pr7yiFlMBjY1AcxtdJXp6-orRtihqLRAzJJgUYTexwMwiEjOL-GRXKkjzEiPaF7l38OHcEGTpld3NspAUWovqWHustA1pS2yJCkX44WZLRya2F3SmQBxGHfCosPUNZ4oy6YNL0NjOfkg4kd_6SG5cy1uLXYeIVZyWsyyOnzE4yX1tu7wzCWsWoYR5W1nwEumgq1j7r1DOxqHVtOpvUZ8Slok_aSsoVef8-wWfFd7nwdnofZv-tGiA1Oy0tZ1jRCtECp6iSRdlQ8JtrSUlkd-bQkOP0M3U_UO1xBkFCKnFHnsWCPMn94BlRiWfHqQrNTtf0Y5Sha__ogtLKv22cvawGQnLRnBqRZVwMuFLaD151WtDJVdNYp1NY29iSV-2bgyS8vB5pvj4KZPs_xBp8OmPm50z6z5qjg4IlCt8j4w11MvGlc7ifsGvWl2SUe28jHf3I9V3gnmA&ps=789x470&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---&vl=10&ciid=1fl3rsgtn1rj7n55lr0_VMAP_0_0&cidx=0&sidx=0&rap=0&vidIdx=0&vad=1&omn=0&imal=1
+
 
 #EXTINF: -1 tvg-logo = "" group-title = "Nacionales",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
@@ -87,3 +87,8 @@ http://45.225.93.154:8000/play/a030?checkedby:iptvcat.com
 
 #EXTINF: -1 tvg-logo = "" group-title = "Deportes",TyC Sport
 https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+
+
+
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Deportes",Fox Sports
+https://content-asae1-up-1.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1637706972&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=7714f4d70cef5c2449b08c94397a44094c7e64f55de0d4b007f00dc31e9c118e&euid=%7B58AAF5CE-1660-4200-BE5A-133C12C35A67%7D_000_1_001_live_00-06-00_0.0.7.42&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=95293e965ab4f07ea2e00134cc18edcdc214f36f5783f3f7f1d9d99763367025&pbs=c2a13c2cc7e04b2d819b0f416c6be2f4
