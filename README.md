@@ -12,12 +12,13 @@ https://asucap.com/livestream/aguavirgen.m3u8
 
 
 #EXTINF: -1 tvg-logo = "https://html.canalrcn.com/CanalRCN/react/img/logo-rcn-2020.png" group-title = "Nacionales", RCN
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZbrkvdO0j8MEv1I_XUaXoKc)/dm/3/x7vyv0z/s/live-2.m3u8
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZedBC_S9HxRGJ3LY5bqWDww)/dm/3/x7vyv0z/s/live-2.m3u8
 
 #EXTINF: -1 tvg-logo = "" group-title = "Nacionales",Caracol Ahora
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?uid=x1JoYNxWVymUr2eaMCk5VzW2jTwU8p9a&sid=tfX0eb1cJzzjQk4TthHHB35rL83WBPga&pid=CS4jGy96bbO7ocqnZ2zbNJjGqQmFvqXY&an=screen&at=web-app&av=v5.2.192&ref=https%3A%2F%2Fnoticias.caracoltv.com%2F&res=392x221&without_cookies=false&dnt=true
 
 #EXTINF: -1 tvg-logo = "" group-title = "Nacionales",Caracol
+https://pe-p1-p-e-di2.cdn.mdstrm.com/live-stream/574463697b9817cf0886fc17/publish/media_1200.m3u8?aid=574462d1cab0f4d50866f001&uid=aVBYtsFkLU8UNMFRanZQYFf6wsZUyQmH&sid=tD39OuF4qDODWe8HkZ3sYfZLbPNKsvFT&pid=35lelEwe8SoSoW84Y5M6PAvrCdi2UeWQ&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&dnt=true&es=pe-p1-p-e-di2.cdn.mdstrm.com&ote=1639144332674&ot=nEBCB_sSLpBAeOKB4ew5aw&proto=https&pz=us
 
 
 #EXTINF: -1 tvg-logo = "" group-title = "Nacionales",Señal Colombia
