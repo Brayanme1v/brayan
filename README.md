@@ -80,7 +80,7 @@ https://mdstrm.com/video/61882b85897f70082fbad1f0.m3u8?uid=aBlfq031hOECycpVujmy8
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Deportes",ClaroSports
 http://45.225.93.154:8000/play/a030?checkedby:iptvcat.com
 
-#EXTINF: -1 tvg-logo = "" group-title = "Deportes",TyC Sport
+#EXTINF: -1 tvg-logo = "https://img2.freepng.es/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg" group-title = "Deportes",TyC Sport
 https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
 
