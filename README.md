@@ -22,6 +22,11 @@ https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?uid=x1JoYN
 #EXTINF: -1 tvg-logo = "" group-title = "Nacionales",Caracol
 https://mdstrm.com/live-stream-playlist/58d539f1a3ec37fa097a75de.m3u8
 
+
+
+#EXTINF: -1 tvg-logo = "" group-title = "Nacionales",Canal 12
+http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8?checkedby:iptvcat.com
+
 #EXTINF: -1 tvg-logo = "" group-title = "Nacionales",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
