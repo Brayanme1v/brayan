@@ -21,6 +21,9 @@ https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?uid=x1JoYN
 https://pe-p1-p-e-di2.cdn.mdstrm.com/live-stream/574463697b9817cf0886fc17/publish/media_1200.m3u8?aid=574462d1cab0f4d50866f001&uid=aVBYtsFkLU8UNMFRanZQYFf6wsZUyQmH&sid=tD39OuF4qDODWe8HkZ3sYfZLbPNKsvFT&pid=35lelEwe8SoSoW84Y5M6PAvrCdi2UeWQ&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&dnt=true&es=pe-p1-p-e-di2.cdn.mdstrm.com&ote=1639144332674&ot=nEBCB_sSLpBAeOKB4ew5aw&proto=https&pz=us
 
 
+#EXTINF: -1 tvg-logo = "" group-title = "Nacionales",Caracol
+https://mdstrm.com/live-stream-playlist/58d539f1a3ec37fa097a75de.m3u8
+
 #EXTINF: -1 tvg-logo = "" group-title = "Nacionales",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
