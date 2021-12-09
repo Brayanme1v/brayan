@@ -85,5 +85,3 @@ https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d
 
 
 
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Deportes",Fox Sports Premium
-https://content-asae1-up-1.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1637706972&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=7714f4d70cef5c2449b08c94397a44094c7e64f55de0d4b007f00dc31e9c118e&euid=%7B58AAF5CE-1660-4200-BE5A-133C12C35A67%7D_000_1_001_live_00-06-00_0.0.7.42&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=95293e965ab4f07ea2e00134cc18edcdc214f36f5783f3f7f1d9d99763367025&pbs=c2a13c2cc7e04b2d819b0f416c6be2f4
