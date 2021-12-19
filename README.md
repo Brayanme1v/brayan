@@ -16,12 +16,11 @@ https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZYc9Al-3iBc07NkFOj
 
 
 
-
-
-
-
 #EXTINF: -1 tvg-logo = "" group-title = "Nacionales",Caracol
+https://pe-p1-p-e-di2.cdn.mdstrm.com/live-stream/574463697b9817cf0886fc17/publish/media_1200.m3u8?aid=574462d1cab0f4d50866f001&uid=CXH7K6BXBV6baABF2AXSHz6VmAaAcVtD&sid=ejUb1ucQBtQ8eoS72ceVQnPkSWg0827h&pid=MFE2vVr3Ai15jCHZPiR6zlnTKXsMpeJI&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&dnt=true&es=pe-p1-p-e-di2.cdn.mdstrm.com&ote=1640006930511&ot=KsmqRe2Om8_RRhdB4GsZbQ&proto=https&pz=us
+
 https://mdstrm.com/live-stream-playlist/58d539f1a3ec37fa097a75de.m3u8
+
 
 
 #EXTINF: 05 tvg-logo = "https://mir-s3-cdn-cf.behance.net/projects/404/f7967b83356483.Y3JvcCwxMDA3LDc4OCwxOTcsMA.png" group-title = "Nacionales",Caracol Ahora
