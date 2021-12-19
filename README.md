@@ -12,7 +12,10 @@ https://asucap.com/livestream/aguavirgen.m3u8
 
 
 #EXTINF: 04 tvg-logo = "https://html.canalrcn.com/CanalRCN/react/img/logo-rcn-2020.png" group-title = "Nacionales", RCN
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZedBC_S9HxRGJ3LY5bqWDww)/dm/3/x7vyv0z/s/live-2.m3u8
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZYc9Al-3iBc07NkFOjjVrdI)/dm/3/x7vyv0z/s/live-2.m3u8
+
+
+
 
 
 
