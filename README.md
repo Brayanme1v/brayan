@@ -62,6 +62,12 @@ http://azxtv.com/hls/stream.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 
+
+
+#EXTINF: 12 tvg-logo = "" group-title = "Latino Kids
+https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
+
+
 #EXTINF: 14 tvg-logo = "https://www.thesportsdb.com/images/media/channel/logo/4kxtjc1623961569.png" group-title = "Deportes",Estadio TNT Sport
 
 
