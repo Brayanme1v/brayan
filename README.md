@@ -93,4 +93,24 @@ https://h2.ustvgo.la/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9M
 https://cdn.videocdn.click/cdn/premium44/video.m3u8?vcdn
 
 
+#EXTINF: 06 tvg-logo = "" group-title = "",1
+https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
+
+
+
+
+
+#EXTINF: 06 tvg-logo = "" group-title = "",RT
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+
+
+#EXTINF: 06 tvg-logo = "" group-title = "",Telemúsica TV
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
+
+
+
+#EXTINF: 06 tvg-logo = "" group-title = "",Vallenato Internacional
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+
+
 
