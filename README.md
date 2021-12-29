@@ -74,27 +74,27 @@ https://h2.ustvgo.la/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9M
 
 
 
-#EXTINF: 06 tvg-logo = "" group-title = "",ESPN
+#EXTINF: 06 tvg-logo = "" group-title = "Deportes",ESPN
 https://cdn.videocdn.click/cdn/premium44/video.m3u8?vcdn
 
 
-#EXTINF: 06 tvg-logo = "" group-title = "",Cinemaa
+#EXTINF: 06 tvg-logo = "" group-title = "Nacionales",Cinemaa
 https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
 
 
 
 
 
-#EXTINF:  tvg-logo = "" group-title = "",RT
+#EXTINF:  tvg-logo = "" group-title = "Nacionales",RT
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 
 
-#EXTINF:  tvg-logo = "" group-title = "",Telemúsica TV
+#EXTINF:  tvg-logo = "" group-title = "Musica",Telemúsica TV
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
 
 
 
-#EXTINF:  tvg-logo = "" group-title = "",Vallenato Internacional
+#EXTINF:  tvg-logo = "" group-title = "Musica",Vallenato Internacional
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 
 
