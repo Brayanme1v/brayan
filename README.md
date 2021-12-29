@@ -81,4 +81,9 @@ https://nedmedia.akamaized.net:443/hls/live/2034243/feed1/master_720.m3u8
 https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
 
+#EXTINF: 06 tvg-logo = "" group-title = "",123
+http://103.194.169.171:8282/ES_MDEPORTES/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+
+
+
 
