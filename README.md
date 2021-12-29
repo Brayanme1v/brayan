@@ -69,7 +69,6 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 
 
 #EXTINF: 14 tvg-logo = "https://www.thesportsdb.com/images/media/channel/logo/4kxtjc1623961569.png" group-title = "Deportes",Estadio TNT Sport
-https://nedmedia.akamaized.net:443/hls/live/2034243/feed1/master_720.m3u8
 
 
 
@@ -82,8 +81,12 @@ https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d
 
 
 #EXTINF: 06 tvg-logo = "" group-title = "",123
-http://103.194.169.171:8282/ES_MDEPORTES/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+https://h2.ustvgo.la/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyMSA1OjMyOjI0IFBNJmhhc2hfdmFsdWU9b29MdVVBWis5Wm1KbXlOSFIvTEh4dz09JnZhbGlkbWludXRlcz0yNDA=
 
+
+
+#EXTINF: 06 tvg-logo = "" group-title = "",ESPN
+https://cdn.videocdn.click/cdn/premium44/video.m3u8?vcdn
 
 
 
