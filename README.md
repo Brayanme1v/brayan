@@ -62,22 +62,7 @@ http://azxtv.com/hls/stream.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
 #EXTINF: 14 tvg-logo = "https://www.thesportsdb.com/images/media/channel/logo/4kxtjc1623961569.png" group-title = "Deportes",Estadio TNT Sport
-
-
-
-
-
 
 
 #EXTINF: 15 tvg-logo = "https://img2.freepng.es/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg" group-title = "Deportes",TyC Sport
@@ -93,23 +78,23 @@ https://h2.ustvgo.la/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9M
 https://cdn.videocdn.click/cdn/premium44/video.m3u8?vcdn
 
 
-#EXTINF: 06 tvg-logo = "" group-title = "",1
+#EXTINF: 06 tvg-logo = "" group-title = "",Cinemaa
 https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
 
 
 
 
 
-#EXTINF: 06 tvg-logo = "" group-title = "",RT
+#EXTINF:  tvg-logo = "" group-title = "",RT
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 
 
-#EXTINF: 06 tvg-logo = "" group-title = "",Telemúsica TV
+#EXTINF:  tvg-logo = "" group-title = "",Telemúsica TV
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
 
 
 
-#EXTINF: 06 tvg-logo = "" group-title = "",Vallenato Internacional
+#EXTINF:  tvg-logo = "" group-title = "",Vallenato Internacional
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 
 
