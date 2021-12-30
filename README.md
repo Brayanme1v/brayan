@@ -62,7 +62,8 @@ http://azxtv.com/hls/stream.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 
-
+#EXTINF: 01 tvg-logo = "" group-title = "Nacionales", Space
+https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/index_720_av-p.m3u8?sd=10&rebase=on&id=AgC+PS86X2RXfaf4zWFbe%2fGnE582aIzVtfjlGIWluLhIslLeG02aFZAfYlX5f5O5QJp7IV24Nk8A8A%3d%3d&hdntl=exp=1640910087~acl=%2f*~data=hdntl~hmac=c6c88e74b74792890959959138ad7796d1fb7e6945aa9ad3fde2fb4136e85ab3
 
 #EXTINF: 01 tvg-logo = "" group-title = "Nacionales", Latino Kids
 https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
