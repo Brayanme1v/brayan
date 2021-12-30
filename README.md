@@ -65,6 +65,12 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF: 01 tvg-logo = "" group-title = "Nacionales", Space
 https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/index_720_av-p.m3u8?sd=10&rebase=on&id=AgC+PS86X2RXfaf4zWFbe%2fGnE582aIzVtfjlGIWluLhIslLeG02aFZAfYlX5f5O5QJp7IV24Nk8A8A%3d%3d&hdntl=exp=1640910087~acl=%2f*~data=hdntl~hmac=c6c88e74b74792890959959138ad7796d1fb7e6945aa9ad3fde2fb4136e85ab3
 
+
+
+#EXTINF: 01 tvg-logo = "" group-title = "Nacionales", TNT
+https://latam4-lh.akamaihd.net/i/TNT_MEX@445586/index_720_av-p.m3u8?sd=10&rebase=on&id=AgC+PS86X2RXdxf5zWFyrTCKBUHw+OZNPI8mUtaMvxuxgaDFF+WScfVgYmiQhmRX8Xq0FRJQgSbYuQ%3d%3d&hdntl=exp=1640974999~acl=%2f*~data=hdntl~hmac=7f00eb6f208f5be9856d5105ae6a64f6758fe7c02980521f728eea8b608c8df8
+
+
 #EXTINF: 01 tvg-logo = "" group-title = "Nacionales", Latino Kids
 https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
 
