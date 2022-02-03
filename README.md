@@ -29,6 +29,8 @@ https://pe-p1-p-e-xm1.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/3csP3j
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?uid=x1JoYNxWVymUr2eaMCk5VzW2jTwU8p9a&sid=tfX0eb1cJzzjQk4TthHHB35rL83WBPga&pid=CS4jGy96bbO7ocqnZ2zbNJjGqQmFvqXY&an=screen&at=web-app&av=v5.2.192&ref=https%3A%2F%2Fnoticias.caracoltv.com%2F&res=392x221&without_cookies=false&dnt=true
 
 
+#EXTINF: 06 tvg-logo = "" group-title = "Nacionales",Canal 1
+https://pe-p1-p-e-xm1.cdn.mdstrm.com/live-stream/5a5e1c2568b1910913db5fe2/publish/media_750.m3u8?aid=5a1dafd63910b04010338038&uid=KziLszoQOz4mq6ZLJxxo2RteYICkLQR2&sid=YIA41uOO06UyAvsiP2xhfpaxFfaoSIDw&pid=mg7tBqWP5e4qkmbJJGfTTGDbwoIrkcAS&ref=https%3A%2F%2Fcanal1.com.co%2F&without_cookies=false&dnt=true&es=pe-p1-p-e-xm1.cdn.mdstrm.com&ote=1644004270101&ot=C8tRFYNSzRSulZcT7KQaPA&proto=https&pz=us
 
 
 #EXTINF: 06 tvg-logo = "" group-title = "Nacionales",Canal 12
