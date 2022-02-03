@@ -12,21 +12,16 @@ https://asucap.com/livestream/aguavirgen.m3u8
 
 
 #EXTINF: 04 tvg-logo = "https://html.canalrcn.com/CanalRCN/react/img/logo-rcn-2020.png" group-title = "Nacionales", RCN
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZYc9Al-3iBc07NkFOjjVrdI)/dm/3/x7vyv0z/s/live-2.m3u8
-
+https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZWlGwV79aUHIIYPkeeu2FW4)/dm/3/x7vyv0z/s/live-1.m3u8
 
 
 #EXTINF: 04 tvg-logo = "" group-title = "Nacionales", RCN Novelas
 http://45.179.140.242:8000/play/a0jf
 
-#EXTINF: -1 tvg-logo = "" group-title = "Nacionales",12
-https://pe-p1-p-e-di2.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/3csP3jVSTr-D1F-4lpxWng/stream/79438e47-4b5b-43ae-8df5-b92858fc2bbc:MRN2/variant/0c4b9d02d8349fdb6f49dd4953241739/bandwidth/2780800.m3u8?uid=9gqRLPi3DimaX2Wp6yuHvmMDNryuM6qE&sid=aYx3Dqi388shm1GQlJX6nU6rY78eBtNH&pid=bKiVMN7DY2GT3APjZ50lNXCMZs4nKweo&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&dnt=true&ote=1643475532415&ot=AWGJaf_L_Dw-Psi8UBHlgw&es=pe-p1-p-e-di2.cdn.mdstrm.com&proto=https&pz=us&aid=574462d1cab0f4d50866f001
 
 
 #EXTINF: -1 tvg-logo = "" group-title = "Nacionales",Caracol
-https://pe-p1-p-e-di2.cdn.mdstrm.com/live-stream/574463697b9817cf0886fc17/publish/media_1200.m3u8?aid=574462d1cab0f4d50866f001&uid=CXH7K6BXBV6baABF2AXSHz6VmAaAcVtD&sid=ejUb1ucQBtQ8eoS72ceVQnPkSWg0827h&pid=MFE2vVr3Ai15jCHZPiR6zlnTKXsMpeJI&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&dnt=true&es=pe-p1-p-e-di2.cdn.mdstrm.com&ote=1640006930511&ot=KsmqRe2Om8_RRhdB4GsZbQ&proto=https&pz=us
-
-https://mdstrm.com/live-stream-playlist/58d539f1a3ec37fa097a75de.m3u8
+https://pe-p1-p-e-xm1.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/3csP3jVSTr-D1F-4lpxWng/stream/bd127575-6e00-4bdb-9574-5d5cf6d1540c:MRN2/master.m3u8?uid=KziLszoQOz4mq6ZLJxxo2RteYICkLQR2&sid=YIA41uOO06UyAvsiP2xhfpaxFfaoSIDw&pid=xZz20oR47N8njQVynAvC55rIvfvZfXOQ&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&dnt=true&ote=1644003957190&ot=DzLaS0aOgC-JRRyEQd7prA&es=pe-p1-p-e-xm1.cdn.mdstrm.com&proto=https&pz=us&aid=574462d1cab0f4d50866f001
 
 
 
