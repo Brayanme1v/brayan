@@ -12,16 +12,12 @@ https://asucap.com/livestream/aguavirgen.m3u8
 
 
 #EXTINF: 04 tvg-logo = "https://html.canalrcn.com/CanalRCN/react/img/logo-rcn-2020.png" group-title = "Nacionales", RCN
-https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZWlGwV79aUHIIYPkeeu2FW4)/dm/3/x7vyv0z/s/live-1.m3u8
-
 
 #EXTINF: 04 tvg-logo = "" group-title = "Nacionales", RCN Novelas
-http://45.179.140.242:8000/play/a0jf
 
 
 
 #EXTINF: -1 tvg-logo = "" group-title = "Nacionales",Caracol
-https://pe-p1-p-e-xm1.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/3csP3jVSTr-D1F-4lpxWng/stream/bd127575-6e00-4bdb-9574-5d5cf6d1540c:MRN2/master.m3u8?uid=KziLszoQOz4mq6ZLJxxo2RteYICkLQR2&sid=YIA41uOO06UyAvsiP2xhfpaxFfaoSIDw&pid=xZz20oR47N8njQVynAvC55rIvfvZfXOQ&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&dnt=true&ote=1644003957190&ot=DzLaS0aOgC-JRRyEQd7prA&es=pe-p1-p-e-xm1.cdn.mdstrm.com&proto=https&pz=us&aid=574462d1cab0f4d50866f001
 
 
 
@@ -62,13 +58,13 @@ http://azxtv.com/hls/stream.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 
-#EXTINF: 01 tvg-logo = "" group-title = "Nacionales", Space
-https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/index_720_av-p.m3u8?sd=10&rebase=on&id=AgC+PS86X2RXfaf4zWFbe%2fGnE582aIzVtfjlGIWluLhIslLeG02aFZAfYlX5f5O5QJp7IV24Nk8A8A%3d%3d&hdntl=exp=1640910087~acl=%2f*~data=hdntl~hmac=c6c88e74b74792890959959138ad7796d1fb7e6945aa9ad3fde2fb4136e85ab3
+#EXTINF: 01 tvg-logo = "" group-title = "Nacionales", 
 
 
 
-#EXTINF: 01 tvg-logo = "" group-title = "Nacionales", TNT
-https://latam4-lh.akamaihd.net/i/TNT_MEX@445586/index_720_av-p.m3u8?sd=10&rebase=on&id=AgC+PS86X2RXdxf5zWFyrTCKBUHw+OZNPI8mUtaMvxuxgaDFF+WScfVgYmiQhmRX8Xq0FRJQgSbYuQ%3d%3d&hdntl=exp=1640974999~acl=%2f*~data=hdntl~hmac=7f00eb6f208f5be9856d5105ae6a64f6758fe7c02980521f728eea8b608c8df8
+
+#EXTINF: 01 tvg-logo = "" group-title = "Nacionales", 
+
 
 
 #EXTINF: 01 tvg-logo = "" group-title = "Nacionales", Latino Kids
@@ -82,13 +78,12 @@ https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
 https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
 
-#EXTINF: 06 tvg-logo = "" group-title = "",123
-https://h2.ustvgo.la/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyMSA1OjMyOjI0IFBNJmhhc2hfdmFsdWU9b29MdVVBWis5Wm1KbXlOSFIvTEh4dz09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF: 06 tvg-logo = "" group-title = "",
 
 
 
-#EXTINF: 06 tvg-logo = "" group-title = "Deportes",ESPN
-https://cdn.videocdn.click/cdn/premium44/video.m3u8?vcdn
+#EXTINF: 06 tvg-logo = "" group-title = "Deportes",
+
 
 
 #EXTINF: 06 tvg-logo = "" group-title = "Nacionales",Cinemaa
