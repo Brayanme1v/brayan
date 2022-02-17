@@ -12,7 +12,7 @@ https://asucap.com/livestream/aguavirgen.m3u8
 
 
 #EXTINF: -1 tvg-logo = "" group-title = "Nacionales",Caracol
-https://tna5.bozztv.com/LiveCH005/index.m3u8
+https://pe-p1-p-e-xm1.cdn.mdstrm.com/live-stream/5d323bfa11f75108a2b42ad4/publish/media_400.m3u8?aid=589b13f631f1bebd088ff753&uid=pRbSejGez6t18JaMH5R2xwDNcSGK5jYu&sid=22kOmPpyWtRVbRQGKbgahbA1J07yjRA9&pid=H5rINAQYVBLhTGdrwU75VQ0GC8mSA1bW&ref=https%3A%2F%2Fsports.caracoltv.com%2F&without_cookies=false&dnt=true&es=pe-p1-p-e-xm1.cdn.mdstrm.com&ote=1645190196853&ot=YRobbhiMU67nJRFqm-ZFyw&proto=https&pz=us
 
 
 
