@@ -11,13 +11,16 @@ https://asucap.com/livestream/aguavirgen.m3u8
 
 
 
+#EXTINF: -1 tvg-logo = "" group-title = "Nacionales",Caracol
+https://tna5.bozztv.com/LiveCH005/index.m3u8
+
+
+
 #EXTINF: 04 tvg-logo = "https://html.canalrcn.com/CanalRCN/react/img/logo-rcn-2020.png" group-title = "Nacionales", RCN
 
-#EXTINF: 04 tvg-logo = "" group-title = "Nacionales", RCN Novelas
 
 
 
-#EXTINF: -1 tvg-logo = "" group-title = "Nacionales",Caracol
 
 
 
