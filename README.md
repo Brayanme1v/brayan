@@ -22,12 +22,10 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
 
 #EXTINF: 04 tvg-logo = "https://html.canalrcn.com/CanalRCN/react/img/logo-rcn-2020.png" group-title = "Nacionales", RCN
-http://new-pro.tv:8080/Fernando/123321/128354?checkedby:iptvcat.com
+https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZTPw3sAKKcPCfb_c_VhEeD3I_1DKhScKv-9bbNrTBqyb)/dm/3/x7vyv0z/s/live-1.m3u8
 
 
 
-#EXTINF: -1 tvg-logo = "" group-title = "Nacionales",TNT
-http://new-pro.tv:8080/Fernando/123321/72606?checkedby:iptvcat.com
 
 
 
@@ -35,8 +33,9 @@ http://new-pro.tv:8080/Fernando/123321/72606?checkedby:iptvcat.com
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?uid=x1JoYNxWVymUr2eaMCk5VzW2jTwU8p9a&sid=tfX0eb1cJzzjQk4TthHHB35rL83WBPga&pid=CS4jGy96bbO7ocqnZ2zbNJjGqQmFvqXY&an=screen&at=web-app&av=v5.2.192&ref=https%3A%2F%2Fnoticias.caracoltv.com%2F&res=392x221&without_cookies=false&dnt=true
 
 
-#EXTINF: 06 tvg-logo = "" group-title = "Nacionales",Canal 1
-https://pe-p1-p-e-xm1.cdn.mdstrm.com/live-stream/5a5e1c2568b1910913db5fe2/publish/media_750.m3u8?aid=5a1dafd63910b04010338038&uid=KziLszoQOz4mq6ZLJxxo2RteYICkLQR2&sid=YIA41uOO06UyAvsiP2xhfpaxFfaoSIDw&pid=mg7tBqWP5e4qkmbJJGfTTGDbwoIrkcAS&ref=https%3A%2F%2Fcanal1.com.co%2F&without_cookies=false&dnt=true&es=pe-p1-p-e-xm1.cdn.mdstrm.com&ote=1644004270101&ot=C8tRFYNSzRSulZcT7KQaPA&proto=https&pz=us
+
+#EXTINF: 06 tvg-logo = "" group-title = "Nacionales",Discovery Channel
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvQEQyU56x1Wrw2hNxLIfLzFmh_3_0i0m3KR_J4EVgCfqMRuDoZ2VOjw35Fu88E9Y7kWTt12lqfmGJNj_kB5a5ivFUkOb8_EEAjQkxCzv6qwhPcW7lXH4wL69bDTzjcdJCXMj7qbVHQZWKGrExp7ldPkWhzcKVGtcjRMQxxM8xK3z_W7HLHe8gvYHEwGq28rhQSyz9_f7UGr6ORiYuPn9mdfKyI_G-pTPB7U4P9ayNoEx0jDRdB3RveIJNiJlQvcRI7U09gvw3sP4kyDNW_ixQME7yi4Nkz0Mpc_3gwgc_3DrV9B7l1XOG9F3T4_6iWClUQ1aOBbdEjxCzbd0KfROieSEXcXGJyJ6ub_iON_KbX0qzYkdo-2uriRGMWRN4CGGxGkpY2d5T8byABuF8ZgJoOZQIaS3IC62r1G8f76hafUR4cHBMWyYQF0nnTxJIjsX5HYUefGuzu2m_DXUCtcQHwtLooFQPIR8wTuoA0IyB3HQgErph0YRLaVy8AeQmVyD5uvXVsy1VExX4zThRi-ZbHyimV-br1kx_3bAaJt4osZJhwq33CodwUteeOWYspD8_Igh5lPT7i0FPosS7zx7WcbsoS875kfzPXFGhkDdtfFPGfVIJG2nvSF4hWGzw3yEt20sBGPUgLBeUagIGd9uGdN-vzjbOIF8F7txxbVYYPSMx6BbIzHrY5Y6zE6gAQoXQn4nLOncNoJLQDZc4hKtMZIMVr17EtvyrN9kotaiFl2NYQI2txvJy9JmtyTNbGQh8qy0pChy1FbKtXcQt6UGcOhGNPscdqbW3rcrlOQLFUGH8uQVT9nnC2IDAovxKkAdjTM74vMgBoMcUm8oAoYfCjuJew1IAEqCXVzLWVhc3QtMjDBAw.m3u8
 
 
 #EXTINF: 06 tvg-logo = "" group-title = "Nacionales",Canal 12
