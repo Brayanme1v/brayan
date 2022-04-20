@@ -22,7 +22,8 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
 
 #EXTINF: 04 tvg-logo = "https://html.canalrcn.com/CanalRCN/react/img/logo-rcn-2020.png" group-title = "Nacionales", RCN
-https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVWjL2GnKJ9KxIS55e91n1o)/dm/3/x7vyv0z/s/live-0.m3u8
+http://new-pro.tv:8080/Fernando/123321/128354?checkedby:iptvcat.com
+
 
 
 #EXTINF: -1 tvg-logo = "" group-title = "Nacionales",TNT
@@ -67,12 +68,12 @@ http://azxtv.com/hls/stream.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 
-#EXTINF: 01 tvg-logo = "" group-title = "Nacionales", 
 
 
 
 
-#EXTINF: 01 tvg-logo = "" group-title = "Nacionales", 
+
+
 
 
 
@@ -80,18 +81,12 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
 
 
-#EXTINF: 14 tvg-logo = "https://www.thesportsdb.com/images/media/channel/logo/4kxtjc1623961569.png" group-title = "Deportes",Estadio TNT Sport
-
-
-#EXTINF: 15 tvg-logo = "https://img2.freepng.es/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg" group-title = "Deportes",TyC Sport
-https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-
-
-#EXTINF: 06 tvg-logo = "" group-title = "",
 
 
 
-#EXTINF: 06 tvg-logo = "" group-title = "Deportes",
+
+
+
 
 
 
@@ -107,13 +102,6 @@ https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 
 
 
-#EXTINF: 01 tvg-logo = "" group-title = "Nacionales", Telemúsica TV
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
-
-
-
-#EXTINF: 01 tvg-logo = "" group-title = "Nacionales", Vallenato Internacional
-https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8 
 
 
 
