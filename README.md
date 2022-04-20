@@ -26,7 +26,8 @@ https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVWjL2GnKJ9KxIS55e
 
 
 #EXTINF: -1 tvg-logo = "" group-title = "Nacionales",TNT
-https://list.iptvcat.com/my_list/s/57f6d3399dcdefe616be343e7cfcb30c.m3u8
+http://new-pro.tv:8080/Fernando/123321/72606?checkedby:iptvcat.com
+
 
 
 #EXTINF: 05 tvg-logo = "https://mir-s3-cdn-cf.behance.net/projects/404/f7967b83356483.Y3JvcCwxMDA3LDc4OCwxOTcsMA.png" group-title = "Nacionales",Caracol Ahora
