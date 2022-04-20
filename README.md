@@ -25,8 +25,8 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVWjL2GnKJ9KxIS55e91n1o)/dm/3/x7vyv0z/s/live-0.m3u8
 
 
-
-
+#EXTINF: -1 tvg-logo = "" group-title = "Nacionales",TNT
+https://list.iptvcat.com/my_list/s/57f6d3399dcdefe616be343e7cfcb30c.m3u8
 
 
 #EXTINF: 05 tvg-logo = "https://mir-s3-cdn-cf.behance.net/projects/404/f7967b83356483.Y3JvcCwxMDA3LDc4OCwxOTcsMA.png" group-title = "Nacionales",Caracol Ahora
