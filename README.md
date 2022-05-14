@@ -98,10 +98,6 @@ https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.rcgespectaculares.com.mx/images/rcg-logo-2014-288.png" group-title="Mexico", RCG TV2
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-
-
 
 
 
