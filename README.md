@@ -22,7 +22,6 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
 
 #EXTINF: 04 tvg-logo = "https://html.canalrcn.com/CanalRCN/react/img/logo-rcn-2020.png" group-title = "Nacionales", RCN
-https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZTPw3sAKKcPCfb_c_VhEeD3I_1DKhScKv-9bbNrTBqyb)/dm/3/x7vyv0z/s/live-1.m3u8
 
 
 
@@ -34,8 +33,7 @@ https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?uid=x1JoYN
 
 
 
-#EXTINF: 06 tvg-logo = "" group-title = "Nacionales",Discovery Channel
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvQEQyU56x1Wrw2hNxLIfLzFmh_3_0i0m3KR_J4EVgCfqMRuDoZ2VOjw35Fu88E9Y7kWTt12lqfmGJNj_kB5a5ivFUkOb8_EEAjQkxCzv6qwhPcW7lXH4wL69bDTzjcdJCXMj7qbVHQZWKGrExp7ldPkWhzcKVGtcjRMQxxM8xK3z_W7HLHe8gvYHEwGq28rhQSyz9_f7UGr6ORiYuPn9mdfKyI_G-pTPB7U4P9ayNoEx0jDRdB3RveIJNiJlQvcRI7U09gvw3sP4kyDNW_ixQME7yi4Nkz0Mpc_3gwgc_3DrV9B7l1XOG9F3T4_6iWClUQ1aOBbdEjxCzbd0KfROieSEXcXGJyJ6ub_iON_KbX0qzYkdo-2uriRGMWRN4CGGxGkpY2d5T8byABuF8ZgJoOZQIaS3IC62r1G8f76hafUR4cHBMWyYQF0nnTxJIjsX5HYUefGuzu2m_DXUCtcQHwtLooFQPIR8wTuoA0IyB3HQgErph0YRLaVy8AeQmVyD5uvXVsy1VExX4zThRi-ZbHyimV-br1kx_3bAaJt4osZJhwq33CodwUteeOWYspD8_Igh5lPT7i0FPosS7zx7WcbsoS875kfzPXFGhkDdtfFPGfVIJG2nvSF4hWGzw3yEt20sBGPUgLBeUagIGd9uGdN-vzjbOIF8F7txxbVYYPSMx6BbIzHrY5Y6zE6gAQoXQn4nLOncNoJLQDZc4hKtMZIMVr17EtvyrN9kotaiFl2NYQI2txvJy9JmtyTNbGQh8qy0pChy1FbKtXcQt6UGcOhGNPscdqbW3rcrlOQLFUGH8uQVT9nnC2IDAovxKkAdjTM74vMgBoMcUm8oAoYfCjuJew1IAEqCXVzLWVhc3QtMjDBAw.m3u8
+
 
 
 #EXTINF: 06 tvg-logo = "" group-title = "Nacionales",Canal 12
@@ -99,6 +97,9 @@ https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
 #EXTINF: 01 tvg-logo = "" group-title = "Nacionales", RT
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://www.rcgespectaculares.com.mx/images/rcg-logo-2014-288.png" group-title="Mexico", RCG TV2
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 
 
 
