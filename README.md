@@ -22,7 +22,7 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
 
 #EXTINF: 04 tvg-logo = "https://html.canalrcn.com/CanalRCN/react/img/logo-rcn-2020.png" group-title = "Nacionales", RCN
-
+https://www.dailymotion.com/cdn/live/video/x7vyv0z.m3u8?sec=92MOLwNeefsP3yChf6Y1nCRs01FLVJQIpeGTAH2GqP1lMyD9s4lkFE7u3G2-6NxwFEBzF8QDpKeIWJmsMhstMQ&dmTs=216504&dmV1st=37CB3FC12B40A27629C8AEF9D3ECE2F8
 
 
 
