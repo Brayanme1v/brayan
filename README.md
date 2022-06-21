@@ -79,9 +79,6 @@ https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
 
 
 
-#EXTINF: 01 tvg-logo = "" group-title = "",h
-youtube-dl --no-part --restrict-filenames "https://edge-live16-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8"
-
 
 
 
