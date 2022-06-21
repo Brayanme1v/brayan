@@ -74,11 +74,14 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 
 
 
-#EXTINF: 01 tvg-logo = "" group-title = "Nacionales", Latino Kids
+#EXTINF: 01 tvg-logo = "" group-title = "Nacionales",Latino Kids
 https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
 
 
 
+#EXTINF: 01 tvg-logo = "" group-title = "",h
+https://edge2.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD-mp4a_144800_spa=20001.m3u8
+https://edge2.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD-avc1_678000=10000.m3u8
 
 
 
