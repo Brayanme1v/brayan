@@ -80,7 +80,7 @@ https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
 
 
 #EXTINF: 01 tvg-logo = "" group-title = "",h
-https://edge2.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD-mp4a_144800_spa=20001.m3u8
+youtube-dl --no-part --restrict-filenames "https://edge-live16-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8"
 
 
 
