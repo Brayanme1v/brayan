@@ -15,46 +15,14 @@ https://asucap.com/livestream/aguavirgen.m3u8
 
 
 
-#EXTINF: -1 tvg-logo = "" group-title = "Nacionales",Caracol
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
 
 
 
-#EXTINF: 04 tvg-logo = "https://html.canalrcn.com/CanalRCN/react/img/logo-rcn-2020.png" group-title = "Nacionales", RCN
-https://www.dailymotion.com/cdn/live/video/x7vyv0z.m3u8?sec=92MOLwNeefsP3yChf6Y1nCRs01FLVJQIpeGTAH2GqP1lMyD9s4lkFE7u3G2-6NxwFEBzF8QDpKeIWJmsMhstMQ&dmTs=216504&dmV1st=37CB3FC12B40A27629C8AEF9D3ECE2F8
+#
 
 
 
-
-
-#EXTINF: 05 tvg-logo = "https://mir-s3-cdn-cf.behance.net/projects/404/f7967b83356483.Y3JvcCwxMDA3LDc4OCwxOTcsMA.png" group-title = "Nacionales",Caracol Ahora
-https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?uid=x1JoYNxWVymUr2eaMCk5VzW2jTwU8p9a&sid=tfX0eb1cJzzjQk4TthHHB35rL83WBPga&pid=CS4jGy96bbO7ocqnZ2zbNJjGqQmFvqXY&an=screen&at=web-app&av=v5.2.192&ref=https%3A%2F%2Fnoticias.caracoltv.com%2F&res=392x221&without_cookies=false&dnt=true
-
-
-
-
-
-
-#EXTINF: 06 tvg-logo = "" group-title = "Nacionales",Canal 12
-http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8?checkedby:iptvcat.com
-
-#EXTINF: 07 tvg-logo = "" group-title = "Nacionales",Señal Colombia
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-
-#EXTINF: 08 tvg-logo = "" group-title = "Nacionales",canal tro 
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-
-#EXTINF: -09 tvg-logo = "" group-title = "Nacionales",Tele Caribe
-http://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
-
-
-
-#EXTINF: 10 tvg-logo = "" group-title = "Nacionales",Tele Pacifico 
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
-
-#EXTINF: 11 tvg-logo = "" group-title = "Cultura",DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 
 
@@ -74,8 +42,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 
 
 
-#EXTINF: 01 tvg-logo = "" group-title = "Nacionales",Latino Kids
-https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
+
 
 
 
