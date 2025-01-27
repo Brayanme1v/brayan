@@ -59,10 +59,6 @@ https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
 
 
 
-#EXTINF: 01 tvg-logo = "" group-title = "Nacionales", RT
-https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-
-
 
 
 
