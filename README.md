@@ -10,7 +10,7 @@ https://asucap.com/livestream/san_francisco.m3u8
 https://asucap.com/livestream/aguavirgen.m3u8
 
 
-
+#EXTINF:5,
 
 
 
@@ -21,26 +21,12 @@ http://azxtv.com/hls/stream.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 
+#EXTINF: 06 tvg-logo =,Comedy Central en Español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF: 06 tvg-logo =,Nick en Espanol
+#EXTINF: 06 tvg-logo =,Nick en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
 
 
