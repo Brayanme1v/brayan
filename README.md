@@ -35,8 +35,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 
 
 
-#EXTINF: tvg-logo =Disney Junior Latino America
+#EXTINF: 01 tvg-logo = "" group-title = Disney Junior Latino America
 http://168.181.122.234:8000/play/a037/index.m3u8
 
-#EXTINF: tvg-logo =DirecTV Sports
+#EXTINF: 01 tvg-logo = "" group-title =DirecTV Sports
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
