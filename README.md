@@ -14,18 +14,6 @@ https://asucap.com/livestream/aguavirgen.m3u8
 
 
 
-
-
-
-
-
-#
-
-
-
-
-
-
 #EXTINF: 12 tvg-logo = "https://pbs.twimg.com/profile_images/577844391550676992/1CMGwqut_400x400.png" group-title = "Anime",Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
 
@@ -52,8 +40,8 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 
 
 
-#EXTINF: 06 tvg-logo = "" group-title = "Nacionales",Cinemaa
-https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
+#EXTINF: 06 tvg-logo =,Nick en Espanol
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
 
 
 
