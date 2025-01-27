@@ -35,5 +35,5 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 
 
 
-
-
+#EXTINF: 06 tvg-logo =,Disney XD East
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
